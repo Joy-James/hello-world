@@ -1,2 +1,3 @@
-# hello-world
-Just another repository
+hello Humans!
+I wanna learn code really bad !
+Ha! no idea where to start
